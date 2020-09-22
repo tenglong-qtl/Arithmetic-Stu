@@ -4,7 +4,7 @@ package org.zicheng.stu.sort;
 import java.util.Arrays;
 
 /**
- * 选择排序事件复杂度为 n^2
+ * 选择排序时间复杂度为 n^2
  * 每次选出一个最小的数交换位置
  * Author: zicheng
  * Since: 2020-09-19 11:25
