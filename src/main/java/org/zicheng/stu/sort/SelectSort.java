@@ -38,7 +38,7 @@ public class SelectSort {
 
     public static void main(String[] args) {
 
-        int[] nums = {11,34,98,23,65,34,87,56,98,12};
+        int[] nums = {11, 34, 98, 23, 65, 34, 87, 56, 98, 12};
         System.out.println(Arrays.toString(SelectSort.sort(nums)));
 
     }
